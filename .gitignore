@@ -1,0 +1,22 @@
+# Виртуальные окружения
+.venv/
+venv/
+ENV/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Дистрибутивы
+dist/
+build/
+*.egg-info/
+
+# Локальные конфигурации
+.env
+.vscode/
+.idea/
+
+# Файлы журналов
+*.log
